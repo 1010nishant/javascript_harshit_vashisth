@@ -22,3 +22,8 @@ xhr.onload = function(){
 }
 
 xhr.send();
+
+
+
+
+// https://www.freecodecamp.org/news/ajax-tutorial/

@@ -19,3 +19,10 @@
 // console.log(title.childNodes);
 const container = document.querySelector(".container");
 console.log(container.children);
+
+// https://javascript.info/dom-nodes
+
+// https://javascript.info/dom-navigation
+
+// https://mundrisoft.com/tech-bytes/dom-traversing-manipulating-in-javascript/
+//for better understanding search on web for dom travasing ,manipulation,  

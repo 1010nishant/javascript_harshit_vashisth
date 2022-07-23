@@ -15,3 +15,5 @@
 // console.log(typeof firstName);
 
 // let firstName = "harshit";
+
+//https://www.freecodecamp.org/news/execution-context-how-javascript-works-behind-the-scenes/#:~:text=Whenever%20the%20JavaScript%20engine%20receives,can%20only%20be%20one%20GEC.
