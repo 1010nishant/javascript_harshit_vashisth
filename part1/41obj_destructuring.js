@@ -6,7 +6,7 @@
 //   anotherFamousSong: "kashmir",
 // };
 
-// let { bandName, famousSong, ...restProps } = band;//bandName,famisSong are new variable type of let and restProps is Object contains rest properties of band  
+// let { bandName, famousSong, ...restProps } = band;//bandName,famusSong are new variable type of let and restProps is Object contains rest properties of band  
 // console.log(bandName);
 // console.log(restProps);
 

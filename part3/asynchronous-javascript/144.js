@@ -7,9 +7,13 @@
 //     .then(data => {
 //         console.log(data);
 //     })
+
+
 console.log("script start");
 const URL = "https://jsonplaceholder.typicode.com/posts";
 
+
+//this works asynchronousily
 // async function getPosts(){
 //     const response = await fetch(URL);
 //     if(!response.ok){
@@ -19,7 +23,7 @@ const URL = "https://jsonplaceholder.typicode.com/posts";
 //     return data;
 // }
 
-
+// asyc await with arrow func.
 const getPosts = async() =>{
     const response = await fetch(URL);
     if(!response.ok){

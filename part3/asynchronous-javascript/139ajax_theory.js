@@ -19,6 +19,6 @@
 
 
 // we have 3 most common ways to create and send request to server
-// 1.) xmlHTTPRequest (old way of doing)
+// 1.) xmlHTTPRequest(XHR) (old way of doing)
 // 2.) fetch API (new way of doing)
 // 3.) axios (this is third party library)

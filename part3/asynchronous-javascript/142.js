@@ -42,3 +42,7 @@ sendRequest("GET", URL)
     .catch(error =>{
         console.log(error);
     })
+
+
+
+    // here we make promise chaining for making new url and performing some work on that 
