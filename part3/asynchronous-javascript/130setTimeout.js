@@ -32,3 +32,6 @@ console.log("Script end");
 //https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/
 
 //https://www.geeksforgeeks.org/javascript-cleartimeout-clearinterval-method/
+
+// sunchronous code ---> blocking code
+// asunchronous code ---> non-blocking code
